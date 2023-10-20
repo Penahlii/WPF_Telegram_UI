@@ -1,0 +1,32 @@
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\WpfTelegramTask.exe
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\WpfTelegramTask.deps.json
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\WpfTelegramTask.runtimeconfig.json
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\WpfTelegramTask.dll
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\WpfTelegramTask.pdb
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask_Content.g.cs
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask_MarkupCompile.cache
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask_MarkupCompile.lref
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.g.resources
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.AssemblyInfo.cs
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.dll
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\refint\WpfTelegramTask.dll
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.pdb
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\WpfTelegramTask.genruntimeconfig.cache
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\obj\Debug\net6.0-windows\ref\WpfTelegramTask.dll
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\telegram.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\menu (1).png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-double-tick-50.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-user-groups-64.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-pinned-48.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-grinning-face-with-big-eyes-48.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-search-32.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\icons8-three-dots-24.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\Screenshot 2023-10-20 225448.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\Screenshot 2023-10-20 230214.png
+C:\Users\asus\source\repos\WpfTelegramTask\WpfTelegramTask\bin\Debug\net6.0-windows\Images\Screenshot 2023-10-20 230435.png
